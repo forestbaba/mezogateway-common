@@ -1,6 +1,6 @@
 <?php
 
-namespace CommonServices;
+namespace Commonservices;
 
 use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
