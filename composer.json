@@ -1,0 +1,15 @@
+{
+    "name": "mezogateway/common",
+    "description": "The common files or packages will live here",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Forest baba",
+            "email": "forestbabaspam@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework":"^7.4"
+    }
+}
