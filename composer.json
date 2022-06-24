@@ -10,6 +10,6 @@
         }
     ],
     "require": {
-        "laravel/framework":"^7.4"
+        "laravel/framework":"^7.4  || ^8.0"
     }
 }
