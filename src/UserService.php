@@ -24,7 +24,6 @@ class UserService
 
         $response = $this->request()->get("{$this->endpoint}/auth/profile");
         $json =  $response->json();
-        // info($json['data']['pin']);
 
         $user = new User();
         $user->id = $json['data']['id'];
